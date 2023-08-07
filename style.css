@@ -201,7 +201,7 @@ header a:hover {
     height: 620px;
     width: 520px;
     border-radius: 10px;
-    box-shadow: 20px 20px 10px #0000008f;
+    box-shadow: 10px 10px 10px #0000008f;
 
 }
 
@@ -348,7 +348,7 @@ header a:hover {
     height: 620px;
     width: 520px;
     border-radius: 10px;
-    box-shadow: -20px 20px 10px #0000008f;
+    box-shadow: -10px 10px 10px #0000008f;
 }
 
 
@@ -581,6 +581,7 @@ footer {
         height: 400px;
         object-fit: cover;
         object-position: bottom;
+        box-shadow: none;
     }
 
     .footer_logo {
@@ -643,6 +644,8 @@ footer {
         height: 400px;
         object-fit: cover;
         object-position: bottom;
+        box-shadow: none;
+       
     }
 
     .section__aside {
