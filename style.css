@@ -91,6 +91,8 @@ header .header__logo {
     margin: 10px;
     background-size: cover;
     background-position: center;
+    width: 100px; /* Ajusta el ancho deseado */
+  height: auto;
 }
 
 header .container {
